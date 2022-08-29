@@ -1,0 +1,33 @@
+				+~-~-~-~-~-~-~-~-~-~-~-+
+				|==>Final Coding Lab<==|
+				+-~-~-~-~-~-~-~-~-~-~-~+
+
+Requirements:
+1) 4 Pillars of OOP
+	-Inheritance, Polymorphism (overloading or overriding), 	Encapsulation, Abstraction (Abstract class or Interface)
+2) Must create and use at least 3 Constructors
+3) Must have at least 4 methods
+4) Use a Scanner to get responses from the user
+5) Must contain a switch statement
+6) Must handle at least 1 exception
+7) The project must include at least 3 Classes
+8) Use one of the Collections structures.
+	-ArrayList, HashSet, Queue, Stack, LinkedList, HashMap (One of 	these Data Structures will count)
+9) Use a loop to traverse through the Collection structure that you chose and modify, organize or return values from the iteration.
+
+Brainstorm Ideas:
+
+	-How can you meet the requirements? 
+	-What classes you'll need to get started? 
+	-What type of objects do you think you'll need to create? 
+	-What are their relationships?
+	-Draw out the project structure if you need a visual aid to help
+	-Put comments in your classes, so you have an idea of what is going where (this will also help make sure you have all the requirements)
+
+Plan out your Project:
+
+Start Small:
+	-Create your classes.
+	-what characteristics and behavior do your objects need?
+	-Don't code blindly! Have the vision and break down the logic into small pieces i.e.: don't put something that adds objects to a list in the same method as something that updates the list)
+	-Consider all the yes/no questions.
